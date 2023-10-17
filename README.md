@@ -40,3 +40,9 @@ Let's get you signed up for this free course.
 ### Search for JavaScript Essentials 1 and click Get Started
 
 ![](img/6.png)
+
+---
+
+![](img/netacad.png)
+
+![](img/openedg.png)
